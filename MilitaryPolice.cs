@@ -16,11 +16,11 @@ namespace MilitaryUnit
         {
             if (gender == "female")
             {
-                Console.WriteLine("3 MPH over the speed limit, she is going to give you ticket.");
+                Console.WriteLine("3 MPH over the speed limit, she is going to give you a ticket.");
             }
             else if (gender == "male")
             {
-                Console.WriteLine("3 MPH over the speed limit, he is going to give you ticket.");
+                Console.WriteLine("3 MPH over the speed limit, he is going to give you a ticket.");
             }
             else
             {
